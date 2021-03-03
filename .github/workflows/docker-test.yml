@@ -3,7 +3,7 @@ name: Docker MySQL
 
 on:
   push:
-    branches: [ test ]
+    branches: [ mysql8 ]
   pull_request:
     branches: [ master ]
 
