@@ -3,6 +3,8 @@
 Raspberry Pi compatible Docker base image with [MySQL](https://www.mysql.com/).
 It is based on the official [Mysql Docker Image](https://registry.hub.docker.com/_/mysql/) ported to the ARM based Raspbery Pi.
 
+Updated to a more recent version of MySQL.
+
 ## What is MySQL?
 
 ![logo](https://raw.githubusercontent.com/docker-library/docs/master/mysql/logo.png)
